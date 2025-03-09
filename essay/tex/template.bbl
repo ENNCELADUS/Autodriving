@@ -5,13 +5,6 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Hossain(2023)]{hossain2023}
-Jumman Hossain.
-\newblock Autonomous driving with deep reinforcement learning in carla
-  simulation.
-\newblock \emph{arXiv preprint arXiv:2306.11217}, 2023.
-\newblock URL \url{https://arxiv.org/abs/2306.11217}.
-
 \bibitem[Jin et~al.(2025)Jin, Li, Leng, Han, Xiong, and Sun]{jin2025}
 Guizhe Jin, Zhuoren Li, Bo~Leng, Wei Han, Lu~Xiong, and Chen Sun.
 \newblock Hybrid action based reinforcement learning for multi-objective
@@ -51,6 +44,13 @@ B.~R. Kiran, Ibrahim Sobh, Victor Talpaert, Patrick Mannion, Ahmad~A.
 \newblock \emph{IEEE Transactions on Intelligent Transportation Systems},
   23\penalty0 (6):\penalty0 4909--4926, June 2022.
 \newblock \doi{10.1109/TITS.2021.3054625}.
+
+\bibitem[Hossain(2023)]{hossain2023}
+Jumman Hossain.
+\newblock Autonomous driving with deep reinforcement learning in carla
+  simulation.
+\newblock \emph{arXiv preprint arXiv:2306.11217}, 2023.
+\newblock URL \url{https://arxiv.org/abs/2306.11217}.
 
 \bibitem[Al-Sallab et~al.(2016)Al-Sallab, Abdou, Perot, and
   Yogamani]{sallab2016}
