@@ -1,0 +1,159 @@
+\begin{thebibliography}{18}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Hossain(2023)]{hossain2023}
+Jumman Hossain.
+\newblock Autonomous driving with deep reinforcement learning in carla
+  simulation.
+\newblock \emph{arXiv preprint arXiv:2306.11217}, 2023.
+\newblock URL \url{https://arxiv.org/abs/2306.11217}.
+
+\bibitem[Jin et~al.(2025)Jin, Li, Leng, Han, Xiong, and Sun]{jin2025}
+Guizhe Jin, Zhuoren Li, Bo~Leng, Wei Han, Lu~Xiong, and Chen Sun.
+\newblock Hybrid action based reinforcement learning for multi-objective
+  compatible autonomous driving.
+\newblock \emph{arXiv preprint}, arXiv:2501.08096v1, Jan 2025.
+\newblock URL \url{https://arxiv.org/abs/2501.08096}.
+
+\bibitem[Zhu et~al.(2020)Zhu, Wang, Pu, Hu, Wang, and Ke]{zhu2020}
+Meixin Zhu, Yinhai Wang, Ziyuan Pu, Jingyun Hu, Xuesong Wang, and Ruimin Ke.
+\newblock Safe, efficient, and comfortable velocity control based on
+  reinforcement learning for autonomous driving.
+\newblock \emph{Transportation Research Part C: Emerging Technologies},
+  117:\penalty0 102662, 2020.
+\newblock URL \url{https://meixinzhu.github.io/pdf/Safe_efficien_Zhu.pdf}.
+
+\bibitem[Zhu(2021)]{zhu2021}
+Zhaoxuan Zhu.
+\newblock \emph{Reinforcement Learning in Eco-driving for Connected and
+  Automated Vehicles}.
+\newblock PhD thesis, Ohio State University, 2021.
+\newblock URL
+  \url{https://rave.ohiolink.edu/etdc/view?acc_num=osu1638536531293253}.
+
+\bibitem[Bai(2024)]{survey2023}
+S.~Bai.
+\newblock A survey of reinforcement learning theories in autonomous vehicles.
+\newblock \emph{Applied and Computational Engineering}, 85:\penalty0 187--194,
+  2024.
+\newblock URL
+  \url{https://www.researchgate.net/publication/382758563_A_survey_of_reinforcement_learning_theories_in_autonomous_vehicles}.
+
+\bibitem[Kiran et~al.(2022)Kiran, Sobh, Talpaert, Mannion, Al~Sallab, Yogamani,
+  and P{\'e}rez]{kiran2022}
+B.~R. Kiran, Ibrahim Sobh, Victor Talpaert, Patrick Mannion, Ahmad~A.
+  Al~Sallab, Senthil Yogamani, and Patrick P{\'e}rez.
+\newblock Deep reinforcement learning for autonomous driving: A survey.
+\newblock \emph{IEEE Transactions on Intelligent Transportation Systems},
+  23\penalty0 (6):\penalty0 4909--4926, June 2022.
+\newblock \doi{10.1109/TITS.2021.3054625}.
+
+\bibitem[Al-Sallab et~al.(2016)Al-Sallab, Abdou, Perot, and
+  Yogamani]{sallab2016}
+Ahmad~EL Al-Sallab, Mahmoud Abdou, Etienne Perot, and Senthil Yogamani.
+\newblock End-to-end deep reinforcement learning for lane keeping assist.
+\newblock In \emph{NIPS 2016 Workshop on Machine Learning for Intelligent
+  Transportation Systems}, 2016.
+
+\bibitem[Lillicrap et~al.(2016)Lillicrap, Hunt, Pritzel, Heess, Erez, Tassa,
+  Silver, and Wierstra]{lillicrap2016}
+Timothy~P Lillicrap, Jonathan~J Hunt, Alexander Pritzel, Nicolas Heess, Tom
+  Erez, Yuval Tassa, David Silver, and Daan Wierstra.
+\newblock Continuous control with deep reinforcement learning.
+\newblock \emph{arXiv preprint}, arXiv:1612.04340, 2016.
+\newblock URL \url{https://arxiv.org/pdf/1509.02971}.
+
+\bibitem[Li and Czarnecki(2019)]{li2019}
+Changliu Li and Krzysztof Czarnecki.
+\newblock Urban driving with multi-objective deep reinforcement learning.
+\newblock In \emph{Proceedings of the 18th International Conference on
+  Autonomous Agents and MultiAgent Systems}, pages 359--367, 2019.
+
+\bibitem[Yang et~al.(2019)Yang, Sun, and Narasimhan]{yang2019}
+Runzhe Yang, Xingyuan Sun, and Karthik Narasimhan.
+\newblock A generalized algorithm for multi-objective reinforcement learning
+  and policy adaptation.
+\newblock In H.~Wallach, H.~Larochelle, A.~Beygelzimer, F.~d\textquotesingle
+  Alch\'{e}-Buc, E.~Fox, and R.~Garnett, editors, \emph{Advances in Neural
+  Information Processing Systems}, volume~32. Curran Associates, Inc., 2019.
+\newblock URL
+  \url{https://proceedings.neurips.cc/paper_files/paper/2019/file/4a46fbfca3f1465a27b210f4bdfe6ab3-Paper.pdf}.
+
+\bibitem[Zhang et~al.(2023)Zhang, Lin, Han, and Lv]{zhang2023}
+Hengrui Zhang, Youfang Lin, Sheng Han, and Kai Lv.
+\newblock Lexicographic actor-critic deep rl for urban autonomous driving.
+\newblock \emph{IEEE Transactions on Vehicular Technology}, 72\penalty0
+  (4):\penalty0 4308--4319, 2023.
+\newblock \doi{10.1109/TVT.2022.3226579}.
+
+\bibitem[He and Lv(2023)]{he2023}
+Xiangkun He and Chen Lv.
+\newblock Towards energy-efficient autonomous driving: A multi-objective
+  reinforcement learning approach.
+\newblock \emph{IEEE/CAA Journal of Automatica Sinica}, 10\penalty0
+  (JAS-2022-1495):\penalty0 1329, 2023.
+\newblock ISSN 2329-9266.
+\newblock \doi{10.1109/JAS.2023.123378}.
+\newblock URL
+  \url{https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2023.123378}.
+
+\bibitem[Kendall et~al.(2019)Kendall, Hawke, Janz, Mazur, Reda, Allen, Lam,
+  Bewley, and Shah]{kendall2019}
+Alex Kendall, Jeffrey Hawke, David Janz, Przemyslaw Mazur, Daniele Reda,
+  John-Mark Allen, Vinh-Dieu Lam, Alex Bewley, and Amar Shah.
+\newblock Learning to drive in a day.
+\newblock In \emph{2019 International Conference on Robotics and Automation
+  (ICRA)}, pages 8248--8254, 2019.
+\newblock \doi{10.1109/ICRA.2019.8793742}.
+
+\bibitem[Xu et~al.(2020)Xu, Zuo, Li, Qian, Ren, and Sun]{xu2018}
+Xin Xu, Lei Zuo, Xin Li, Lilin Qian, Junkai Ren, and Zhenping Sun.
+\newblock A reinforcement learning approach to autonomous decision making of
+  intelligent vehicles on highways.
+\newblock \emph{IEEE Transactions on Systems, Man, and Cybernetics: Systems},
+  50\penalty0 (10):\penalty0 3884--3897, 2020.
+\newblock \doi{10.1109/TSMC.2018.2870983}.
+
+\bibitem[Selvaraj et~al.(2023)Selvaraj, Hegde, Amati, Deflorio, and
+  Chiasserini]{selvaraj2023}
+Dinesh~Cyril Selvaraj, Shailesh Hegde, Nicola Amati, Francesco Deflorio, and
+  Carla~Fabiana Chiasserini.
+\newblock A deep reinforcement learning approach for efficient, safe and
+  comfortable driving.
+\newblock \emph{Applied Sciences}, 13\penalty0 (9), 2023.
+\newblock ISSN 2076-3417.
+\newblock \doi{10.3390/app13095272}.
+\newblock URL \url{https://www.mdpi.com/2076-3417/13/9/5272}.
+
+\bibitem[Dosovitskiy et~al.(2017)Dosovitskiy, Ros, Codevilla, Lopez, and
+  Koltun]{pmlr-v78-dosovitskiy17a}
+Alexey Dosovitskiy, German Ros, Felipe Codevilla, Antonio Lopez, and Vladlen
+  Koltun.
+\newblock {CARLA}: {An} open urban driving simulator.
+\newblock In Sergey Levine, Vincent Vanhoucke, and Ken Goldberg, editors,
+  \emph{Proceedings of the 1st Annual Conference on Robot Learning}, volume~78
+  of \emph{Proceedings of Machine Learning Research}, pages 1--16. PMLR, 13--15
+  Nov 2017.
+\newblock URL \url{https://proceedings.mlr.press/v78/dosovitskiy17a.html}.
+
+\bibitem[Li et~al.(2022)Li, Peng, Feng, Zhang, Xue, and Zhou]{metadrive}
+Quanyi Li, Zhenghao Peng, Lan Feng, Qihang Zhang, Zhenghai Xue, and Bolei Zhou.
+\newblock Metadrive: Composing diverse driving scenarios for generalizable
+  reinforcement learning, 2022.
+\newblock URL \url{https://arxiv.org/abs/2109.12674}.
+
+\bibitem[Lopez et~al.(2018)Lopez, Behrisch, Bieker-Walz, Erdmann, Flötteröd,
+  Hilbrich, Lücken, Rummel, Wagner, and Wiessner]{lopez2018}
+Pablo~Alvarez Lopez, Michael Behrisch, Laura Bieker-Walz, Jakob Erdmann,
+  Yun-Pang Flötteröd, Robert Hilbrich, Leonhard Lücken, Johannes Rummel,
+  Peter Wagner, and Evamarie Wiessner.
+\newblock Microscopic traffic simulation using sumo.
+\newblock In \emph{2018 21st International Conference on Intelligent
+  Transportation Systems (ITSC)}, pages 2575--2582, 2018.
+\newblock \doi{10.1109/ITSC.2018.8569938}.
+
+\end{thebibliography}
